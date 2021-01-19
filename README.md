@@ -1,13 +1,13 @@
 # Stack-Underflow
 Fully functional command line style forum that utilizes python, MongoDB, and SQL to create an experience similar to Stack Overflow.
 
-##User Guide
+## User Guide
 
-###Phase 1 is ran first:
+### Phase 1 is ran first:
 User enters the port number needed to connect to a server. This creates a database and fills it
 with collections to be used for phase 2.
 
-###Phase 2 ran after Phase 1:
+### Phase 2 ran after Phase 1:
 User enters a port number and is connected to a database. User should be connecting to same
 port as in phase 1
 
